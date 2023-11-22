@@ -1,0 +1,10 @@
+Notas
+
+Pastas
+> Internal: Tudo que for especifico desta aplicação, só vai servir nesta aplicação.
+
+Arquivos
+Package: nome do Package = nome da Pasta => NAMESPACE
+
+Go não tem CLASSES
+
